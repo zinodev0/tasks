@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1 title",
+      "description": "Task 1 desc",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Task 2 title",
+      "description": "Task 2 desc",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Task 3 title",
+      "description": "Task 3 desc",
+      "completed": false
+    }
+  ]
+}
